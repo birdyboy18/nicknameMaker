@@ -1,0 +1,16 @@
+{
+  "name": "bystrik-name-generator",
+  "version": "0.1.0",
+  "description": "A nickname generator for bystrik based from nouns begining with b and s",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Paul Bird",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-nunjucks": "^1.0.0"
+  }
+}
